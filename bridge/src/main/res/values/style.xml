@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+
+
+
+    <style name="SonicButton" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/button_text</item>
+        <item name="android:layout_margin">12dp</item>
+        <item name="android:background">@drawable/sonic_button_round_mask</item>
+    </style>
+
+
+</resources>
